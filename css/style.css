@@ -1,0 +1,20 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+nav{
+	font-family: 'Pacifico', cursive;
+}
+h1{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	margin-bottom: 100px;
+}
+p{
+	text-align: justify;
+}
+h5,h6{
+	text-align: center;
+}
+.num{
+	text-align: center;
+}
