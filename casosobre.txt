@@ -1,0 +1,134 @@
+<div class="card">
+			    <img src="img/never.jpg" class="card-img-top" alt="nevernight">
+			    <div class="card-body">
+			      <h5 class="card-title">Nevernight</h5>
+			      <h6>Jay Kristoff</h6>
+			      <div class="num"><span data-toggle="counter-up">3</span></div>
+			      <p class="card-text"></p>
+			    </div>
+			  </div>
+			</div>
+			<br>
+			<div class="card-deck">
+			  <div class="card">
+			    <img src="img/httyd.jpg" class="card-img-top" alt="httyd">
+			    <div class="card-body">
+			      <h5 class="card-title">Como Treinar o Seu Dragão</h5>
+			      <h6>Cressida Cowell</h6>
+			      <div class="num"><span data-toggle="counter-up">13</span></div>
+				    <p class="card-text"></p>
+			    </div>
+			  </div>
+
+			  <div class="card">
+			    <img src="img/anne.jpg" class="card-img-top" alt="anne">
+			    <div class="card-body">
+			    	<h5 class="card-title">Anne de Green Gables</h5>
+			    	<h6>L. M. Montgomery</h6>
+			    	<div class="num"><span data-toggle="counter-up">13</span></div>
+			    	<p class="card-text"></p>
+			    </div>
+			  </div>
+<div class="card-deck">
+			  <div class="card">
+			    <img src="img/hdo.jpg" class="card-img-top" alt="herois do olimpo">
+			    <div class="card-body">
+			      <h5 class="card-title">Heróis do Olimpo</h5>
+			      <h6>Rick Riordan</h6>
+			      <div class="num"><span data-toggle="counter-up">5</span></div>
+				    <p class="card-text"></p>
+			    </div>
+			  </div>
+
+			  <div class="card">
+			    <img src="img/toa.jpg" class="card-img-top" alt="provacoes de apolo">
+			    <div class="card-body">
+			    	<h5 class="card-title">As provações de Apolo</h5>
+			    	<h6>Rick Riordan</h6>
+			    	<div class="num"><span data-toggle="counter-up">5</span></div>
+			    	<p class="card-text"></p>
+			    </div>
+			  </div>
+
+			  <div class="card">
+			    <img src="img/gds.jpg" class="card-img-top" alt="guardioes do sangue">
+			    <div class="card-body">
+			      <h5 class="card-title">Os Guardiões do Sangue</h5>
+			      <h6>Carter Roy</h6>
+			      <div class="num"><span data-toggle="counter-up">5</span></div>
+			      <p class="card-text"></p>
+			    </div>
+			  </div>
+			</div>
+			<br>
+<div class="card-deck">
+			  <div class="card">
+			    <img src="img/tcn.jpg" class="card-img-top" alt="tres coroas negras">
+			    <div class="card-body">
+			      <h5 class="card-title">Três Coroas Negras</h5>
+			      <h6>Kendare Blake</h6>
+			      <div class="num"><span data-toggle="counter-up">5</span></div>
+				    <p class="card-text"></p>
+			    </div>
+			  </div>
+
+			  <div class="card">
+			    <img src="img/abi.jpg" class="card-img-top" alt="biblioteca invisivel">
+			    <div class="card-body">
+			    	<h5 class="card-title">A Biblioteca Invisível</h5>
+			    	<h6>Genevieve Cogman</h6>
+			    	<div class="num"><span data-toggle="counter-up">4</span></div>
+			    	<p class="card-text"></p>
+			    </div>
+			  </div>
+
+			  <div class="card">
+			    <img src="img/sda.jpg" class="card-img-top" alt="senhor dos aneis">
+			    <div class="card-body">
+			      <h5 class="card-title">Senhor dos Anéis</h5>
+			      <h6>Tolkien</h6>
+			      <div class="num"><span data-toggle="counter-up">3</span></div>
+			      <p class="card-text"></p>
+			    </div>
+			  </div>
+			</div>
+			<br>
+			<div class="card">
+			    <img src="img/lesmis.jpg" class="card-img-top" alt="os miseraveis">
+			    <div class="card-body">
+			    	<h5 class="card-title">Os Miseráveis</h5>
+			    	<h6>Victor Hugo</h6>
+			    	<div class="num"><span data-toggle="counter-up">1</span></div>
+			    	<p class="card-text"></p>
+			    </div>
+			  </div>
+			  <div class="card-deck">
+			  <div class="card">
+			    <img src="img/fmf.jpg" class="card-img-top" alt="fazendo meu filme">
+			    <div class="card-body">
+			      <h5 class="card-title">Fazendo Meu Filme</h5>
+			      <h6>Paula Pimenta</h6>
+			      <div class="num"><span data-toggle="counter-up">4</span></div>
+				    <p class="card-text"></p>
+			    </div>
+			  </div>
+			  <div class="card">
+			    <img src="img/annegreen.jpg" class="card-img-top" alt="anne">
+			    <div class="card-body">
+			    	<h5 class="card-title">Anne de Green Gables</h5>
+			    	<h6>L. M. Montgomery</h6>
+			    	<div class="num"><span data-toggle="counter-up">13</span></div>
+			    	<p class="card-text"></p>
+			    </div>
+			  </div>
+			  <div class="card">
+			    <img src="img/ttid.jpg" class="card-img-top" alt="tid">
+			    <div class="card-body">
+			      <h5 class="card-title">As Peças Infernais</h5>
+			      <h6>Cassandra Clare</h6>
+			      <div class="num"><span data-toggle="counter-up">3</span></div>
+			      <p class="card-text"></p>
+			    </div>
+			  </div>
+			</div>
+			<br> 
